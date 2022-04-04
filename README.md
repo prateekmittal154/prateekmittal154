@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://thumbs.gfycat.com/FabulousPerfumedArchaeopteryx-max-1mb.gif" height="100px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prateek </h1>
-<h3 align="center"> A Computer Sciece Undergraduate from India.</h3>
+<h3 align="center"> A Computer Science Undergraduate from India.</h3>
 
 
 ## 🙋‍♂️ About Me
