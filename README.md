@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Object Recognition**
+- 🔭 I’m currently working on **Object Recognition, Natural Language Processing & Sentiment Analysis**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning and Artificial Intelligence**
 
