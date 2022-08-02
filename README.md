@@ -8,13 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Object Recognition, Natural Language Processing & Sentiment Analysis**
+- 🔭 I’m currently working on **Computer Vision, Multimodal Classification, Natural Language Processing & Sentiment Analysis**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning and Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **OpenSource and Research Projects**
 
-- 📫 How to reach me **prateekmittal154@gmail.com**
+- 📫 How to reach me **prateekmittal154@gmail.com or pmittal_be20@thapar.edu**
 
 - ⚡ Fun fact **I teach students in the evening hours!**
 
