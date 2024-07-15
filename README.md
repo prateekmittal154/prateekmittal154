@@ -8,19 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Computer Vision, Multimodal Classification, Natural Language Processing & Sentiment Analysis**
+- 🔭 I’m currently working on **Computer Vision, Multimodal Classification, Backdoor Attacks and MLOps**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Data Analysis, Data Engineering, Machine Learning, Artificial Intelligence and High Performance Computing**
 
 - 👯 I’m looking to collaborate on **OpenSource and Research Projects**
 
-- 📫 How to reach me **prateekmittal154@gmail.com or pmittal_be20@thapar.edu**
-
-- ⚡ Fun fact **I teach students in the evening hours!**
-
-
-
-
+- 📫 How to reach me **prateekmittal154@gmail.com**
 
 
 <p align="center">
